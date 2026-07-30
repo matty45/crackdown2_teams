@@ -1,0 +1,2 @@
+*.i64 filter=git-ida merge=git-ida -text
+*.idb filter=git-ida merge=git-ida -text
