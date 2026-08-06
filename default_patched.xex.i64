@@ -7,9 +7,9 @@ gen: 0
 algo: ZLIB+LFS
 content-length: 133
 metadata:
-  full-size: 354108651
-  sha256: 9cf8fc11ff636a34f853c397f464ed740e815159f6ad488eb1a5822208e2b31d
+  full-size: 241646918
+  sha256: 29967e468bd00432064665c1dee1ddb322c2aa4d5b2b97646d733a21cb309513
 ---
 version https://git-lfs.github.com/spec/v1
-oid sha256:4a20d16d564b642c26b5ec84dc6b87e8cba50d505a2c7afe0926152d8fd92507
-size 43972803
+oid sha256:c21ef9054c5a4565e10baa73453c0b852d7b91f1fd3c8f00b2adfe81df7f641e
+size 45350623
